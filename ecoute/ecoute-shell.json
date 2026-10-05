@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
   "base": "/le-fil-du-jour-pilot/ecoute/",
-  "buildId": "789eea37be82b7e8",
+  "buildId": "d1c32fc498e5d586",
   "urls": [
     "index.html",
     "favicon.svg",
     "icons.svg",
     "ecoute-sw.js",
     "ecoute-cache.mjs",
-    "assets/index-8qaFe4W5.js",
-    "assets/index-B-SAfFpA.css"
+    "assets/index-e8wxo6ad.js",
+    "assets/index-OZBsBBJB.css"
   ]
 }
