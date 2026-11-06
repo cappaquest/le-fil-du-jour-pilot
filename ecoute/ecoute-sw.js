@@ -1,7 +1,7 @@
 import { resolveLfjScope, cachePrefixes, rangedResponse } from './ecoute-cache.mjs'
 
 // Replaced only in the compiled worker, from the original template and shell bundle.
-const SHELL_BUILD_ID = 'd1c32fc498e5d586'
+const SHELL_BUILD_ID = 'aaff1610de62ab5d'
 const compiledBuild = /^[a-f0-9]{16}$/.test(SHELL_BUILD_ID)
 const scopeInfo = (() => {
   try {
